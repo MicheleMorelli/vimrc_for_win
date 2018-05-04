@@ -11,6 +11,4 @@ filetype indent on
 set showmatch
 set incsearch
 set hlsearch
-
-"python fast interpreter - Check dir!
 command PP !/c/Python/ %
