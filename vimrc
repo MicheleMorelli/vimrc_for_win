@@ -11,4 +11,4 @@ filetype indent on
 set showmatch
 set incsearch
 set hlsearch
-command PP !/c/Python/ %
+command PP !python %
