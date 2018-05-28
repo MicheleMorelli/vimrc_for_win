@@ -21,4 +21,4 @@ set wildmenu
 
 command PP !python %
 
-#command PO !python /c/Users/[USERNAME]/AppData/Roaming/Python/Python36/site-packages/pytest.py %
+"command PO !python /c/Users/[USERNAME]/AppData/Roaming/Python/Python36/site-packages/pytest.py %
