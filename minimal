@@ -1,0 +1,8 @@
+"minimal setup
+set tabstop=4
+set softtabstop=4
+set shftwidth=4
+filetype indent on
+set expandtab
+command PP !python %
+command PO !git add %; git commit -m "edited %"
