@@ -4,5 +4,6 @@ set softtabstop=4
 set shftwidth=4
 filetype indent on
 set expandtab
+syntax enable
 command PP !python %
 command PO !git add %; git commit -m "edited %"
